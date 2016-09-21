@@ -1,0 +1,60 @@
+.col-med-12{
+	height: 500px;
+}
+.col-med-6{
+	height: 500px;
+
+}
+header{
+	background-color: #F6F6F6;
+}
+.menu{
+	display: inline-block;
+	float: right;
+	margin-top: 3%;
+}
+.bg-home{
+	background-image: url(../img/home.jpg);
+	padding: 15%;
+
+}
+
+.blancoo{
+	color:#E9FFFF;
+}
+.bg-fondo{
+	background-color: #FFFF0B;
+	height: 100%;
+}
+
+.hackaton{
+
+	width: 70%;
+	height: 80%;
+	padding: 5%;
+}
+.coder{
+	background-color: #FFFFFF;
+	margin-top: 10%;
+
+	}
+.formulario{
+	padding: 3%;
+	
+	width: 60%;
+}
+.bg-color{
+	background-color: #378591;
+}
+.ultimo{
+	display: block;
+	padding: 3%;
+}
+.blanco{
+display: inline-block;
+color:#E9FFFF;
+}
+.amarillo{
+display: inline-block;
+color: #EAFF11;
+}
